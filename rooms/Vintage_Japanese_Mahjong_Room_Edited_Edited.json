@@ -1,19 +1,19 @@
 {
     "title": "ヴィンテージ雀荘",
     "description": "Vintage Japanese Mahjong Room",
-    "rotationX": 0,
+    "rotationX": 180,
     "spzAutoFlip": false,
     "rotationY": 90,
     "floorOffsetY": 1.04,
     "position": [
-        1.88,
+        1.78,
         0,
-        0
+        -0.0
     ],
-    "scale": 0.7,
+    "scale": 0.72,
     "background": "#1a1410",
     "table": {
-        "rotationY": -75,
+        "rotationY": 15,
         "floorY": 0.25
     },
     "cat": {
