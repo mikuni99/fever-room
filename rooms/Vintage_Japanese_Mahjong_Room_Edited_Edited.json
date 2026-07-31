@@ -1,0 +1,59 @@
+{
+    "title": "ヴィンテージ雀荘",
+    "description": "Vintage Japanese Mahjong Room",
+    "rotationX": 0,
+    "spzAutoFlip": false,
+    "rotationY": 90,
+    "floorOffsetY": 1.04,
+    "position": [
+        1.88,
+        0,
+        0
+    ],
+    "scale": 0.7,
+    "background": "#1a1410",
+    "table": {
+        "rotationY": -75,
+        "floorY": 0.25
+    },
+    "cat": {
+        "floorY": 0.25,
+        "avoidRects": [
+            {
+                "center": [
+                    0,
+                    0
+                ],
+                "half": [
+                    0.52,
+                    0.42
+                ]
+            }
+        ]
+    },
+    "light": {
+        "position": [
+            0.6,
+            2.4,
+            0.8
+        ],
+        "intensity": 2.2,
+        "color": "#ffe8b0"
+    },
+    "paiColors": {
+        "body": "#f7ebd4",
+        "bodyDim": "#ccc0a6",
+        "back0": "#c8862a",
+        "back0Dim": "#9a6620",
+        "back1": "#266ac0",
+        "back1Dim": "#1d5192"
+    },
+    "rasha": "#5a6a48",
+    "tableFrame": "#8a6848",
+    "tablePole": "#7a5838",
+    "tableLeg": "#6a4830",
+    "sideTable": {
+        "top": "#5a4030",
+        "leg": "#3a2818"
+    }
+}
