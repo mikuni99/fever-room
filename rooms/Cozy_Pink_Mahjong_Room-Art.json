@@ -1,0 +1,66 @@
+{
+    "title": "コージー・ピンク-アート",
+    "rotationX": 0,
+    "rotationY": 0,
+    "floorOffsetY": 1.1,
+    "position": [
+        0.3,
+        0,
+        1.2
+    ],
+    "scale": 0.7,
+    "background": "#181018",
+    "table": {
+        "rotationY": 0,
+        "floorY": 0.3
+    },
+    "cat": {
+        "floorY": 0.3,
+        "avoidRects": [
+            {
+                "center": [
+                    0,
+                    0
+                ],
+                "half": [
+                    0.52,
+                    0.42
+                ]
+            }
+        ]
+    },
+    "light": {
+        "position": [
+            0.5,
+            2.2,
+            0.6
+        ],
+        "intensity": 1.15,
+        "color": "#ffc8e0",
+        "shadowOpacity": 0.01
+    },
+    "paiColors": {
+        "body": "#fff8fc",
+        "bodyDim": "#e8dce4",
+        "back0": "#d06898",
+        "back0Dim": "#a85078",
+        "back1": "#7088c8",
+        "back1Dim": "#5870a8"
+    },
+    "rasha": "#f0d8e8",
+    "tableFrame": "#f0d8e8",
+    "tablePole": "#e8c8dc",
+    "tableLeg": "#d8b8cc",
+    "sideTable": {
+        "top": "#f0d8e8",
+        "leg": "#c8a8bc"
+    },
+    "fengChip": {
+        "lunban": "#ffc8e0",
+        "normal": "#f0e8f4",
+        "lunbanBorder": "#f088b8",
+        "normalBorder": "#d8c0dc"
+    },
+    "centerPlate": "#201820",
+    "markPlatePocket": "#181018"
+}
